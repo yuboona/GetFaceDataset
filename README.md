@@ -35,4 +35,14 @@ You can use following lines to run the program(I have 4 .py files, but only the 
 
 ```
 
+## Some interesting things
+I tried three ways to fetch the pics. 
+
+1. urllib without headers
+1. urllib with headers
+1. requests with headers
+
+Finally I choose the 2rd way as the default solution. Requests is more convenient, but don't get the exact results I need. There are too much verbose things in the result.
+
+
 [1]: http://www.cs.columbia.edu/CAVE/databases/pubfig/
