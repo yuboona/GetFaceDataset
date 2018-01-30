@@ -22,7 +22,7 @@ Make sure that you have the py3.5 installed. Or you need install them by `$ sudo
 
 You can use following lines to run the program(I have 4 .py files, but only the `get_url.py` and `get_face_with_headers.py` will be used):
 
-```python
+```shell
     # download the code
     $ git clone git@github.com:yuboona/GetFaceDataset.git
 
